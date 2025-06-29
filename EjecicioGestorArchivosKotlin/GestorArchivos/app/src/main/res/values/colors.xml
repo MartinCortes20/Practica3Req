@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Tema Guinda IPN -->
+    <color name="guinda_primary">#7E1538</color>
+    <color name="guinda_primary_variant">#5E1028</color>
+    <color name="guinda_secondary">#D4AF37</color>
+    <color name="guinda_background_light">#FFFFFF</color>
+    <color name="guinda_surface_light">#F5F5F5</color>
+    <color name="guinda_background_dark">#121212</color>
+    <color name="guinda_surface_dark">#1E1E1E</color>
+
+    <!-- Tema Azul ESCOM -->
+    <color name="azul_primary">#1565C0</color>
+    <color name="azul_primary_variant">#0D47A1</color>
+    <color name="azul_secondary">#FFC107</color>
+    <color name="azul_background_light">#FFFFFF</color>
+    <color name="azul_surface_light">#F5F5F5</color>
+    <color name="azul_background_dark">#121212</color>
+    <color name="azul_surface_dark">#1E1E1E</color>
+
+    <!-- Colores comunes -->
+    <color name="white">#FFFFFF</color>
+    <color name="black">#000000</color>
+    <color name="error">#B00020</color>
+</resources>
