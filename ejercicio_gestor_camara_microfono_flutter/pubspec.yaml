@@ -1,0 +1,44 @@
+name: ejercicio_gestor_camara_microfono_flutter
+description: "A new Flutter project."
+publish_to: 'none'
+
+version: 1.0.0+1
+
+environment:
+  sdk: ^3.7.2
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+  # Dependencias para cámara y micrófono
+  camera: ^0.10.6
+  permission_handler: ^11.3.1
+  record: ^5.1.2
+  audioplayers: ^5.2.1
+  path_provider: ^2.1.4
+  path: ^1.9.0
+  
+  # Para almacenamiento local
+  shared_preferences: ^2.3.2
+  sqflite: ^2.3.3+1
+  
+  # Para UI y temas
+  provider: ^6.1.2
+  
+  # Para manejo de archivos e imágenes
+  image: ^4.2.0
+  # gallery_saver: ^2.3.2
+  
+  # Para fechas
+  intl: ^0.19.0
+
+  cupertino_icons: ^1.0.8
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^5.0.0
+
+flutter:
+  uses-material-design: true
